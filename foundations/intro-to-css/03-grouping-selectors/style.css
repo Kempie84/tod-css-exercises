@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+background-black {
+    color: white;
+    background-color: black;
+}
+
+
+background-yellow {
+    background-color: yellow;
+}
