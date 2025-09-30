@@ -16,3 +16,12 @@
   height: 80px;
   align-self: center;
 }
+
+/* another solution would be this:
+
+.container {
+  *******
+  justify-content: center;
+  align-items: center; 
+}
+  */
